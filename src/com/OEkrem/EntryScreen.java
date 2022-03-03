@@ -19,7 +19,6 @@ public class EntryScreen extends javax.swing.JFrame {
     public static String userName = "";
     public static boolean helpStatus = false;
     public static boolean soundStatus = true;
-    public String name = "";
     
 
     /**
