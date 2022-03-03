@@ -5,7 +5,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author OEkrem
+ * @author PC
  */
 public class Apple implements Serializable{
     private int x;
